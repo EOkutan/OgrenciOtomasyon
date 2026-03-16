@@ -1,0 +1,6 @@
+com/example/ogrenciotomasyon/entity/Enrollment.class
+com/example/ogrenciotomasyon/entity/Course.class
+com/example/ogrenciotomasyon/entity/Student.class
+com/example/ogrenciotomasyon/entity/enums/EnrollmentStatus.class
+com/example/ogrenciotomasyon/OgrenciOtomasyonApplication.class
+com/example/ogrenciotomasyon/entity/Instructor.class
